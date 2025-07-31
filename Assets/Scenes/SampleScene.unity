@@ -734,6 +734,7 @@ MonoBehaviour:
   - "Hello!\t"
   - How are you?
   - Good bye!
+  - ......
 --- !u!1 &1460201212
 GameObject:
   m_ObjectHideFlags: 0
